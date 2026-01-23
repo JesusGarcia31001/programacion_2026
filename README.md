@@ -1,6 +1,6 @@
 # Programacion_2026
 
-Nombre:Jesus_Dariel_Garcia_Romero
+Nombre:Jesús_Dariel_García_Romero
 
 Matricula:A25216365
 
